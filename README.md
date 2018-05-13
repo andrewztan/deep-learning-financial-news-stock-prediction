@@ -1,5 +1,7 @@
-# Deep Learning for Financial News Articles 
+# Deep Learning and Sentiment Analysis on Financial News Articles for Stock Prediction
 
-Repo for a course project for Berkeley's CS 294-136: Deep Time Series Learning with Finance Applications
+Final project for Berkeley's CS 294-136: Deep Time Series Learning with Finance Applications
 
-Project: News Sentiment Forecasting for Stock Price Movements
+Report: https://arxiv.org/abs/1712.05785
+
+By: Xingyou Song, Michael Zhao, Andrew Tan, Jordan Prosky
